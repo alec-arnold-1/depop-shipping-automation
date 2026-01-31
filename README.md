@@ -6,7 +6,7 @@ This project is a Python based automation tool designed to streamline the fulfil
 
 **Asynchronous Monitoring:** Utilizes Python's threading library to run a background loop that polls the Gmail API without blocking the Command Line Interface.
 
-** Relational Data Tracking: ** Implements SQLite to maintain a persistent database of processed email Ids, preventing duplicate label generation across different sessions.
+**Relational Data Tracking:** Implements SQLite to maintain a persistent database of processed email Ids, preventing duplicate label generation across different sessions.
 
 **Data Extraction:** Employs BeautifulSoup4 and Regex to navigate nested HTML structures and extract buyer names and shipping addresses.
 
