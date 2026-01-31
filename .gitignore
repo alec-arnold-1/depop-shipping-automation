@@ -1,0 +1,13 @@
+# API Keys and Tokens
+credentials.json
+token.json
+
+# Private Customer Data
+*.csv
+orders.json
+*.db
+
+# Python Environment
+__pycache__
+.venv/
+.env
